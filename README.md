@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 | Qiita | [@thundorac](https://qiita.com/thundorac) |
 | Speaker Deck | [nahaton](https://speakerdeck.com/nahaton0914)  |
 - 💼 I'm working on life insurance information systems.
+- ⚠️ My pet names change quite frequently!
 
 ## Outputs
 | Date  | Event | Contetnt  | Audience |
